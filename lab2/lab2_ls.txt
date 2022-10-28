@@ -1,0 +1,12 @@
+.:
+итого 8
+drw-rwxr-x. 2 artamonov artamonov  22 окт 20 22:08 dir
+-rw-rw--w-. 1 root 	artamonov   5 окт 20 22:06 file
+-rw-------. 1 artamonov artamonov   0 окт 20 22:12 file1
+-rw-rw-rw-. 1 artamonov artamonov   0 окт 20 22:12 file2
+-rw-rw-rw-. 1 artamonov artamonov 847 окт 20 22:17 lab2_history.txt
+-rw-rw-rw-. 1 artamonov artamonov   0 окт 20 22:19 lab2_ls.txt
+
+./dir:
+итого 4
+-rw-rw-r--. 1 artamonov artamonov 7 окт 20 22:09 new_file
