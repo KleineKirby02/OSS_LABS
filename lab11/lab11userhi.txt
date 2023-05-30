@@ -1,0 +1,7 @@
+ 521  id
+ 522  pwd
+ 523  touch file1
+ 524  echo 'Hello, world!' > file1 
+ 525  cat file1
+ 526  chmod 600 file1 
+ 527  history > lab11userhi.txt
